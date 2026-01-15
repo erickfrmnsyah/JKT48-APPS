@@ -105,7 +105,7 @@ lib/
 ## 👤 Author
 
 **Erick Ade Hending Firmansyah**
-Final Project – Mobile Programming
+12220003@cyber-univ.ac.id
 
 ---
 
