@@ -1,4 +1,4 @@
-# 📱 JKT48 Apps – Mobile Programming Final Project
+# JKT48 Apps – Mobile Programming Final Project
 
 Aplikasi mobile sederhana berbasis **Flutter** yang dibuat sebagai **Final Project Mata Kuliah Mobile Programming**.
 
@@ -104,7 +104,7 @@ lib/
 
 ## 👤 Author
 
-**Erick Ade Firmansyah**
+**Erick Ade Hending Firmansyah**
 Final Project – Mobile Programming
 
 ---
